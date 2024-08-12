@@ -1,0 +1,13 @@
+#installations
+clip
+torch
+pillow
+faiss-cpu
+numpy
+git+https://github.com/openai/CLIP.git
+openai
+langchain 
+pgvector
+python-dotenv
+langchain-community
+tiktoken
